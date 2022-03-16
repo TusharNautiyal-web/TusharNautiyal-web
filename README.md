@@ -2,7 +2,6 @@
 <img align='right' src="https://c.tenor.com/w-boZxCBeu0AAAAi/career-great-employee.gif" width="180">
 <img width="70" height="70" src="https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG.png" width="30">
 <p><em>Currentlty Tech Cordinator Data Analyst at <a href="https://www.bhumi.ngo">Bhumi NGO</a><span></span></br>Pasionate about data science its application implementation and and just love to code / make amazing music compositon if you are bored with my code you can go check my music record !SEE I MADE A RHYME.
-  <a href="https://bhumi.ngo/">Bhumi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <a href="https://Instagram.com/Tusharnautiyal"><img src="https://img.shields.io/badge/@TusharNautiyal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/Tusharnautiyal"><img src="https://img.shields.io/badge/TusharNautiyal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
