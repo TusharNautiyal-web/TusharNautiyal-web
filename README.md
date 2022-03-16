@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/Tusharnautiyal"><img src="https://img.shields.io/badge/TusharNautiyal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCsfYqXa3LoaLkB-9F2vmplA"><img src="https://img.shields.io/badge/Tushar Nautiyal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <img src="https://img.shields.io/github/followers/tusharnautiyal-web?label=follow&style=social" />
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
 #You Can Run This Code in Python.
