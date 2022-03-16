@@ -22,6 +22,7 @@
             return Skills
 print(TusharNautiyal())            
 ```
+```
 SELECT * FROM TUSHAR PROJECTS WHERE PROJECTS = "CREATIVE"
 -----------------------------------------------------------------------------------------------------------
 |                                              COMING SOON                                                |
@@ -33,6 +34,8 @@ SELECT * FROM TUSHAR PROJECTS WHERE PROJECTS = "CREATIVE"
 |                                                                                                         |    
 |                                                                                                         |                                                                        |                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------
+```
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to connect with different people</b> so if you want to say <b>hi, hope to see you soon</b> :)</em>
 
 ---
