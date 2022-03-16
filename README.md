@@ -6,7 +6,7 @@
 </em></p>
 <a href="https://Instagram.com/Tusharnautiyal"><img src="https://img.shields.io/badge/@TusharNautiyal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/Tusharnautiyal"><img src="https://img.shields.io/badge/TusharNautiyal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/github/followers/tusharnautiyal-web?label=follow&style=social" />
+<img src="https://img.shields.io/github/followers/tusharnautiyal-web?label=follow&style=social" /><a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
