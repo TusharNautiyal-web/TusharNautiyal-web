@@ -3,7 +3,7 @@
 <p><em>Currentlty Tech Cordinator Data Analyst at <a href="https://www.bhumi.ngo">Bhumi NGO</a><img src="https://bhumi.ngo/wp-content/uploads/2020/12/Bhumi-Torchbearer-Logo-White-1500-PNG.png" width="30"></br>Technical Cordinator Data Analyst At <a href="https://bhumi.ngo/">Bhumi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <a href="https://Instagram.com/Tusharnautiyal"><img src="https://img.shields.io/badge/TusharNautiyal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/Tusharnautiyal"><img src="https://img.shields.io/badge/-tusharnautiyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharnautiyal" /></a>
+<a href="https://linkedin.com/Tusharnautiyal"><img src="https://img.shields.io/badge/-tusharnautiyal-E4405F?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharnautiyal" /></a>
 <img src="https://img.shields.io/github/followers/tusharnautiyal-web?label=follow&style=social" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
