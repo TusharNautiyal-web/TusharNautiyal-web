@@ -8,7 +8,9 @@
 <a href="https://www.youtube.com/channel/UCsfYqXa3LoaLkB-9F2vmplA"><img src="https://img.shields.io/badge/Tushar Nautiyal-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <img src="https://img.shields.io/github/followers/tusharnautiyal-web?label=follow&style=social" />
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tusharnautiyal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tusharnautiyal?trk=profile-badge">Tushar Nautiyal</a></div>
+              
 ```python
 #You Can Run This Code in Python.
  def TusharNautiyal():
