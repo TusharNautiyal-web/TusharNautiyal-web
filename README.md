@@ -20,7 +20,7 @@
              'FRAMEWORKS_AND_LIBS': ['DJANGO','TENSORFLOW','PANDAS','NUMPY','OPENCV','BOOTSTRAP','THREE.JS','ANIME.JS','SELENIUM'....],
              'IDE AND TOOLS' : ['VIISUAL STUDIO','RSTUDIO','TENSORFLOWHUB','HEROKU','GITHUB','GOOGLE DATA STUDIO', 'GOOGLE ANALYTICS', 'MY SQL','TABLEAU','SQL','GOOGLE APP SCRIPT', 'MICROSOFT OFFICE','GOOGLE SUITE']              
             }
-            return Skills
+  return Skills
 print(TusharNautiyal())            
 ```
 ```
