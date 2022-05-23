@@ -36,6 +36,21 @@ SELECT * FROM TUSHAR PROJECTS WHERE PROJECTS = "CREATIVE"
 |                                                                                                         |                                                                        |                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------
 ```
+# All Google Collab Links Are Here 
+Google Collab Projects Deployed With Streamlit and localtunnel.
+1. Streamlit app for Titanic Dataset.ipynb = https://colab.research.google.com/drive/1ST_AzpM-qt4JxaqkIASeIT-w4WM_Dp8o?usp=sharing#scrollTo=UEVttw05JFf0
+2. 
+3.
+4.
+5.
+For All List Click Here.
+
+# Py-Script Based Projects Deployement.
+1.Coming soon
+2.
+3.
+4.
+5.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to connect with different people</b> so if you want to say <b>hi, hope to see you soon</b> :)</em>
 
