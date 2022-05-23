@@ -36,7 +36,7 @@ SELECT * FROM TUSHAR PROJECTS WHERE PROJECTS = "CREATIVE"
 |                                                                                                         |                                                                        |                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------
 ```
-# All Google Collab Links Are Here 
+# All Google Collab Links Are Here  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' width = '50px' height = '50px'>
 ### Google Collab Projects Deployed With Streamlit and localtunnel.
 1. Streamlit app for Titanic Dataset.ipynb = https://colab.research.google.com/drive/1ST_AzpM-qt4JxaqkIASeIT-w4WM_Dp8o?usp=sharing#scrollTo=UEVttw05JFf0
 2. 
