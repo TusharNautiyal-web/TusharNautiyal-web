@@ -45,7 +45,8 @@ SELECT * FROM TUSHAR PROJECTS WHERE PROJECTS = "CREATIVE"
 5.
 For All List Click Here.
 
-# Py-Script Based Projects Deployement.
+# Py-Script Based Projects Deployement.![cover-removebg-preview](https://user-images.githubusercontent.com/74553737/169845638-698103b4-597e-4bce-a2a8-ad21b61f5e4b.png)
+
 1.Coming soon
 2.
 3.
