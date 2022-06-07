@@ -32,7 +32,7 @@ print(TusharNautiyal())
 5. Data Wrang Library for Data PreProcessing and Feature Engineering:***<a href = 'https://github.com/TusharNautiyal-web/DataWrang-Library'> Go to Repository</a>***  
 
 # My Open Libraries or Support Frameworks.
-1.DataWrang: https://github.com/TusharNautiyal-web/DataWrang-Library  PyPI: https://pypi.org/project/DataWrang/
+1. **DataWrang**: https://github.com/TusharNautiyal-web/DataWrang-Library  PyPI: https://pypi.org/project/DataWrang/
 
 # All Google Collab Links Are Here   <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' width = '50px'> 
 ### Google Collab Projects Deployed With Streamlit and localtunnel.
