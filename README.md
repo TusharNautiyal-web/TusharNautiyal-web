@@ -15,10 +15,10 @@
 #You Can Run This Code in Python.
  def TusharNautiyal():
   Skills = {
-             'Code' : ['Python','R','JavaScript','Html','Css','Scss','Flutter'],
+             'Code' : ['Python','JavaScript','Html','Css','Scss','Flutter'],
              'RDBMS' : ['SQL','NoSQL','MONGO DB','FIREBASE'],
-             'FRAMEWORKS_AND_LIBS': ['DJANGO','TENSORFLOW','PANDAS','NUMPY','OPENCV','BOOTSTRAP','THREE.JS','ANIME.JS','SELENIUM'....],
-             'IDE AND TOOLS' : ['VIISUAL STUDIO','RSTUDIO','TENSORFLOWHUB','HEROKU','GITHUB','GOOGLE DATA STUDIO', 'GOOGLE ANALYTICS', 'MY SQL','TABLEAU','SQL','GOOGLE APP SCRIPT', 'MICROSOFT OFFICE','GOOGLE SUITE']              
+             'FRAMEWORKS_AND_LIBS': ['DJANGO','TENSORFLOW','PANDAS','NUMPY','OPENCV','BOOTSTRAP','THREE.JS','ANIME.JS','SELENIUM','OpenCV','SCIKIT-LEARN','FLASK','STREAMLIT','FAST API'],
+             'IDE AND TOOLS' : ['VISUAL STUDIO CODE','TENSORFLOWHUB','HEROKU','GITHUB','GOOGLE DATA STUDIO', 'GOOGLE ANALYTICS', 'MY SQL','TABLEAU','SQL','GOOGLE APP SCRIPT', 'MICROSOFT OFFICE','GOOGLE SUITE','GOOGLE COLLAB','JUPYTER NOTEBOOK']              
             }
   return Skills
 print(TusharNautiyal())            
@@ -36,6 +36,16 @@ SELECT * FROM TUSHAR PROJECTS WHERE PROJECTS = "CREATIVE"
 |                                                                                                         |                                                                        |                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------
 ```
+# My Weekly Top 5 Projects
+1. 
+2. 
+3. 
+4. 
+5.
+
+# My Open Libraries or Support Frameworks.
+1.DataWrang: https://github.com/TusharNautiyal-web/DataWrang-Library  PyPI: https://pypi.org/project/DataWrang/
+
 # All Google Collab Links Are Here   <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' width = '50px'> 
 ### Google Collab Projects Deployed With Streamlit and localtunnel.
 1. Streamlit app for Titanic Dataset.ipynb = https://colab.research.google.com/drive/1ST_AzpM-qt4JxaqkIASeIT-w4WM_Dp8o?usp=sharing#scrollTo=UEVttw05JFf0
@@ -51,6 +61,12 @@ For All List Click Here.
 3.
 4.
 5.
+
+# Advance TABLEAU Viz
+1. Coming Soon
+2.
+3.
+4.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to connect with different people</b> so if you want to say <b>hi, hope to see you soon</b> :)</em>
 
