@@ -50,7 +50,7 @@ For All List Click Here.
 4.
 5.
 
-# Advance TABLEAU Viz
+# Advance TABLEAU Viz <img src = 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png' width = '100px'></img>
 1. Coming Soon
 2.
 3.
