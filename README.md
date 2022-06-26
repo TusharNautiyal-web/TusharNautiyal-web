@@ -53,7 +53,7 @@ For All List Click Here.
 5.
 
 # Advance TABLEAU Viz <img src = 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png' width = '100px'></img>
-1. Coming Soon
+1. 1 Ml 5 Frameworks Heart Dissease Prediction: (Deployed On github Pages with Py-Script) ***<a href = 'https://github.com/TusharNautiyal-web/Heart-Dissease-Prediction'> Go to Repository</a> or <a href = 'https://tusharnautiyal-web.github.io/Heart-Dissease-Prediction'>Check The Deployment</a>***
 2.
 3.
 4.
