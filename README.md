@@ -38,12 +38,15 @@ print(TusharNautiyal())
 
 # All Google Collab Links Are Here   <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' width = '50px'> 
 ### Google Collab Projects Deployed With Streamlit and localtunnel.
-1. Streamlit app for Titanic Dataset.ipynb = https://colab.research.google.com/drive/1ST_AzpM-qt4JxaqkIASeIT-w4WM_Dp8o?usp=sharing#scrollTo=UEVttw05JFf0
-2. 
-3.
-4.
-5. K means Clustering on Wine DataSet Finding Similarities. Link : https://colab.research.google.com/drive/1TQ5c2r0zZjGtXzfUVdtdH969li4S2RdS?usp=sharing
-For All List Click Here.
+
+1. Ml model for Titanic Dataset Deployed Using Streamlit and Local Tunnel <a href = 'https://colab.research.google.com/drive/1ST_AzpM-qt4JxaqkIASeIT-w4WM_Dp8o'>**Go To notebok**</a> 
+2. Credit Card Users Clustering and Applying Ml model to group or predict clusters, Deployed using Streamlit and LocalTunnel<a href = 'https://colab.research.google.com/drive/1_MgBbfDkbm1G__xpLaamLqF6Xtch4XNQ?usp=sharing'>**Go To notebok**</a> 
+3. Titanic Dataset Notebook Eda and creating model <a href = 'https://colab.research.google.com/drive/1_0MWrKlJGzkh3fMEcBy2O_jMRs6p8amB?usp=sharing'>**Go To notebok**</a> 
+4. Clustering Wine Quality using K means <a href = 'https://colab.research.google.com/drive/1TQ5c2r0zZjGtXzfUVdtdH969li4S2RdS'>**Go To notebok**</a> 
+
+5. Understanding Natural Language Processing Techniques Basics Bag of Words, Lemattizing etc. <a href = 'https://colab.research.google.com/drive/1_fTnzzu5UWpfyINhnS54ED6Kx8SPeIUP?usp=sharing'>**Go to Notebook**</a>
+
+<a href = 'https://github.com/TusharNautiyal-web/CollabNotebooks'>For All List Click Here.</a>
 
 # Py-Script Based Projects Deployement.<img src = 'https://user-images.githubusercontent.com/74553737/169845638-698103b4-597e-4bce-a2a8-ad21b61f5e4b.png' width = '50px'>
 1. 1 Ml 5 Frameworks Heart Dissease Prediction: (Deployed On github Pages with Py-Script) ***<a href = 'https://github.com/TusharNautiyal-web/Heart-Dissease-Prediction'> Go to Repository</a> or <a href = 'https://tusharnautiyal-web.github.io/Heart-Dissease-Prediction'>Check The Deployment</a>***
