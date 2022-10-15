@@ -27,9 +27,9 @@ print(TusharNautiyal())
 ```
 
 # My Weekly Top 5 Projects
-1. 1 Ml 5 Frameworks Heart Dissease Prediction: (Deployed On github Pages with Py-Script) ***<a href = 'https://github.com/TusharNautiyal-web/Heart-Dissease-Prediction'> Go to Repository</a> or <a href = 'https://tusharnautiyal-web.github.io/Heart-Dissease-Prediction'>Check The Deployment</a>***
+1. Music genre Classification using CNN Deployed using Hugging Face Spaces and Streamlit ***<a href = 'https://github.com/TusharNautiyal-web/Music-Genre-classification-Using-CNN'> Go to Repository</a> or <a href = 'https://huggingface.co/spaces/TusharNautiyal/Music-Genre-Classification'>Check The Deployment</a>***
 2. Streamlit app for Titanic Dataset: <a href = 'https://colab.research.google.com/drive/1ST_AzpM-qt4JxaqkIASeIT-w4WM_Dp8o?usp=sharing#scrollTo=UEVttw05JFf0'> ***Go To Googl Collab</a>***
-3. Car Price Prediction: <a href = 'https://github.com/TusharNautiyal-web/Car_Price_Prediction_ML'> ***Go to Repository***</a>
+3. Movie Recommender Content Based With dynamic NLP Models: <a href = 'https://github.com/TusharNautiyal-web/Movie-Recommender-System-With-dynamic-NLP-Models'> ***Go to Repository***</a> or <a href = 'https://huggingface.co/spaces/TusharNautiyal/Dynamic-Movie-Recommender-With-Sentiment-Analysis'>**Check Deployment**</a>
 4. Flight Fare Prediction: ***<a href = 'https://github.com/TusharNautiyal-web/Flight-Price-Prediction'> Go to Repository</a>*** 
 5. Data Wrang Library for Data PreProcessing and Feature Engineering:***<a href = 'https://github.com/TusharNautiyal-web/DataWrang-Library'> Go to Repository</a>***  
 
